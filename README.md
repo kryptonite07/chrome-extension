@@ -163,7 +163,3 @@ To obtain the `CHROME_APP_ID`, you'll need to upload a version of your Chrome ex
 ## Design assets
 
 This repo has boilerplate icons and images which you'd want to replace with something apt to the extension you're building. Duplicate my [Figma Chrome extension template](https://www.figma.com/community/file/1127061326249481158) to get started with your design requirements for your Chrome extension.
-
-## Credits
-
-Developed by [Clyde D'Souza](https://clydedsouza.net/)
