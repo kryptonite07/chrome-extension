@@ -4,10 +4,6 @@
 
 A Chrome Extension created using a template.
 
-## What does this include?
-
-### Override Chrome's new tab
-
 ![](./docs/newtab.gif)
 
 This extension will automatically override the new tab page. A single extension is limited to overriding only one of the three possible pages.
