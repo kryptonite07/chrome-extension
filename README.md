@@ -4,6 +4,10 @@
 
 A Chrome Extension created using a template.
 
+## What does this include?
+
+### Override Chrome's new tab
+
 ![](./docs/newtab.gif)
 
 This extension will automatically override the new tab page. A single extension is limited to overriding only one of the three possible pages.
@@ -13,8 +17,6 @@ This extension will automatically override the new tab page. A single extension 
     "newtab": "newtab.html"
 },
 ```
-
-Just delete the above block from the `manifest.json` file to remove the entry point of this functionality. If you want to remove all references to this code, you'll also have to delete files from folder and references from webpack.
 
 ### Options page
 
