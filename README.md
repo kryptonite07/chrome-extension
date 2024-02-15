@@ -1,7 +1,7 @@
 ![](./docs/Thumbnail.png)
 
 # Chrome Extension Template
-
+.
 A Chrome Extension created using a template.
 
 ## What does this include?
